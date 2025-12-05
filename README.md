@@ -102,7 +102,9 @@ Usado o do investsite.
 
 **Tabela Inicial:**
 
-`![Tabela de rankings](images/tabela_rankings.png)`
+`![Tabela de rankings](
+<img width="398" height="354" alt="primeiro" src="https://github.com/user-attachments/assets/4d6a1fdc-90c9-40ca-af8a-3804e6c795b5" />
+)`
 
 
 
